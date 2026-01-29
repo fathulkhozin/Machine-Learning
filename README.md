@@ -47,7 +47,7 @@ Berikut adalah variabel-variabel yang terdapat dalam dataset:
 
 ### Exploratory Data Analysis (EDA)
 #### 1. Distribusi Produk Berdasarkan Master Category
-![Grafik Master Category](jumlah produk.png)
+![Grafik Master Category](jumlah.png)
 *Gambar 1. Distribusi jumlah produk berdasarkan kategori utama.*
     Berdasarkan visualisasi, terlihat bahwa mayoritas produk dalam dataset didominasi oleh kategori *Apparel* (Pakaian), diikuti oleh *Accessories* dan *Footwear*. Hal ini menunjukkan bahwa sistem rekomendasi yang dibangun akan memiliki variasi data yang sangat kaya terutama untuk rekomendasi pakaian.
 #### 2. Distribusi Produk Berdasarkan Gender
@@ -55,7 +55,7 @@ Berikut adalah variabel-variabel yang terdapat dalam dataset:
 *Gambar 2. Persebaran produk berdasarkan target gender.*
     Data menunjukkan persebaran yang cukup berimbang antara produk untuk *Men* (Pria) dan *Women* (Wanita), dengan sejumlah kecil produk untuk kategori anak-anak (*Boys/Girls*) dan Unisex. Ini mengindikasikan bahwa model dapat digunakan secara efektif untuk merekomendasikan produk bagi pengguna pria maupun wanita.
 #### 3. Distribusi Warna (Top 10)
-![Grafik Warna](warna dominan.png)
+![Grafik Warna](warna.png)
 *Gambar 3. Sepuluh warna paling dominan dalam dataset.*
     Warna-warna netral seperti *Black*, *White*, dan *Blue* merupakan warna yang paling dominan dalam koleksi produk. Informasi ini penting karena warna adalah salah satu atribut visual utama dalam menentukan kemiripan produk pada *Content-Based Filtering*.
 
